@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\map\\\\page.tsx -> @/components/map/MapComponent\":{\"id\":\"app\\\\map\\\\page.tsx -> @/components/map/MapComponent\",\"files\":[\"static/css/css-node_modules_leaflet_dist_leaflet_css.css\",\"static/chunks/_app-pages-browser_src_components_map_MapComponent_tsx.js\"]}}"

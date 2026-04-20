@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "home": "Home",
+    "map": "Live Map",
+    "rescue": "Rescue",
+    "adopt": "Adopt",
+    "vet": "Vets",
+    "volunteer": "Volunteer",
+    "donate": "Donate",
+    "community": "Community",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "profile": "Profile"
+  },
+  "hero": {
+    "badge": "Bangladesh's First AI-Powered Animal Rescue Platform",
+    "title": "Every Paw Deserves",
+    "titleHighlight": "a Safe Sphere",
+    "subtitle": "Connecting rescuers, volunteers, vets, and loving families across Bangladesh to save and protect animals — one rescue at a time.",
+    "ctaRescue": "Report Emergency",
+    "ctaAdopt": "Adopt a Pet",
+    "stats": {
+      "rescued": "Animals Rescued",
+      "volunteers": "Active Volunteers",
+      "vets": "Partner Vets",
+      "shelters": "Shelters"
+    }
+  },
+  "rescue": {
+    "title": "Rescue & Emergency",
+    "subtitle": "Report an animal in distress",
+    "sos": "Emergency SOS",
+    "newRequest": "New Rescue Request",
+    "location": "Location",
+    "severity": "Severity",
+    "description": "Description",
+    "uploadPhoto": "Upload Photo/Video",
+    "submit": "Submit Rescue Request",
+    "status": {
+      "pending": "Pending",
+      "accepted": "Accepted",
+      "inProgress": "In Progress",
+      "completed": "Completed"
+    },
+    "severity": {
+      "emergency": "Emergency",
+      "moderate": "Moderate",
+      "safe": "Safe"
+    }
+  },
+  "adopt": {
+    "title": "Find Your Forever Friend",
+    "subtitle": "Smart matching connects you with the perfect companion",
+    "filter": "Filter",
+    "species": "Species",
+    "age": "Age",
+    "breed": "Breed",
+    "location": "Location",
+    "applyAdopt": "Apply to Adopt",
+    "chatRescuer": "Chat with Rescuer",
+    "matchScore": "Match Score",
+    "healthStatus": "Health Status",
+    "vaccinated": "Vaccinated",
+    "neutered": "Neutered"
+  },
+  "vet": {
+    "title": "Veterinary Services",
+    "subtitle": "Connect with certified vets across Bangladesh",
+    "bookAppointment": "Book Appointment",
+    "emergency": "Emergency Contact",
+    "directory": "Vet Directory",
+    "myAppointments": "My Appointments",
+    "rating": "Rating",
+    "experience": "Experience",
+    "services": "Services",
+    "available": "Available Now"
+  },
+  "volunteer": {
+    "title": "Join Our Volunteer Network",
+    "subtitle": "Make a difference in animals' lives",
+    "register": "Register as Volunteer",
+    "skills": "Your Skills",
+    "rescuer": "Rescuer",
+    "feeder": "Feeder",
+    "transporter": "Transporter",
+    "vetAssistant": "Vet Assistant",
+    "myTasks": "My Tasks",
+    "points": "Points Earned",
+    "badges": "Badges"
+  },
+  "donate": {
+    "title": "Support Animal Care",
+    "subtitle": "Your donation saves lives",
+    "donateNow": "Donate Now",
+    "foodDonation": "Food Donation",
+    "medicalFund": "Medical Fund",
+    "shelterFund": "Shelter Fund",
+    "transparency": "Donation Transparency",
+    "totalRaised": "Total Raised",
+    "usedFor": "Used For"
+  },
+  "community": {
+    "title": "Community Feed",
+    "subtitle": "Stories of hope and rescue",
+    "post": "Share Your Story",
+    "like": "Like",
+    "comment": "Comment",
+    "share": "Share",
+    "lostPet": "Lost Pet Alert",
+    "successStory": "Success Story",
+    "helpNeeded": "Help Needed"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalRescues": "Total Rescues",
+    "activeVolunteers": "Active Volunteers",
+    "donations": "Total Donations",
+    "pendingAdoptions": "Pending Adoptions",
+    "recentActivity": "Recent Activity",
+    "heatmap": "Incident Heatmap",
+    "analytics": "Analytics"
+  },
+  "gamification": {
+    "leaderboard": "Leaderboard",
+    "yourRank": "Your Rank",
+    "badges": {
+      "topRescuer": "Top Rescuer",
+      "animalHero": "Animal Hero",
+      "donorChampion": "Donor Champion",
+      "feedingGuardian": "Feeding Guardian",
+      "vetHelper": "Vet Helper"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "edit": "Edit",
+    "delete": "Delete",
+    "viewAll": "View All",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language",
+    "notifications": "Notifications"
+  }
+}

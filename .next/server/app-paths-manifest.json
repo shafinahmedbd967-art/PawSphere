@@ -1,0 +1,12 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/map/page": "app/map/page.js",
+  "/rescue/page": "app/rescue/page.js",
+  "/vet/page": "app/vet/page.js",
+  "/adopt/page": "app/adopt/page.js",
+  "/volunteer/page": "app/volunteer/page.js",
+  "/page": "app/page.js",
+  "/community/page": "app/community/page.js",
+  "/donate/page": "app/donate/page.js"
+}
