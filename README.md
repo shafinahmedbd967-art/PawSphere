@@ -1,6 +1,6 @@
-# 🐾 PawSphere — AI-Powered Animal Rescue Platform
+# 🐾 PawSphere — An Animal Rescue Platform
 
-> Bangladesh's first AI-powered, community-driven animal rescue, adoption, and care platform.
+> A community-driven animal rescue, adoption, and care platform.
 
 ---
 
